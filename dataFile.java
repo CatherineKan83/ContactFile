@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Input {
+public class dataFile {
     public static void main(String[] args) {
         Boolean check = false;
         Boolean ch = false;
